@@ -1,0 +1,16 @@
+id,course,hours,group,size
+C1,Math101,2,G1,100
+C2,Physics101,2,G1,100
+C3,CS101,2,G1,100
+C4,Chemistry101,2,G1,100
+C5,Electronics201,2,G1,100
+C6,Math101,2,G2,80
+C7,Physics101,2,G2,80
+C8,CS101,2,G2,80
+C9,Chemistry101,2,G2,80
+C10,Electronics201,2,G2,80
+C11,Math101,2,G3,60
+C12,Physics101,2,G3,60
+C13,CS101,2,G3,60
+C14,Chemistry101,2,G3,60
+C15,Electronics201,2,G3,60
