@@ -1,0 +1,11 @@
+id,name,qualified_courses,available_days,preferred_periods
+T1,Dr. Sharma,"Math101,Electronics201","Mon,Tue,Wed,Thu,Fri","1,2"
+T2,Dr. Iyer,Physics101,"Mon,Wed,Fri","1,2,3"
+T3,Dr. Mehta,CS101,"Mon,Tue,Thu","4,5,6"
+T4,Dr. Rao,Chemistry101,"Tue,Thu,Fri","1,2,3,4"
+T5,Dr. Singh,"Math101,Physics101","Mon,Tue,Wed,Thu",
+T6,Dr. Gupta,"CS101,Electronics201","Mon,Wed,Fri",
+T7,Dr. Khan,Chemistry101,"Tue,Thu",
+T8,Dr. Patel,Math101,"Mon,Tue,Wed","1,2,3,4,5,6"
+T9,Dr. Kumar,CS101,"Mon,Tue,Wed,Thu,Fri",
+T10,Naruto Uzumaki,NJ001,,
