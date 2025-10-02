@@ -1,0 +1,15 @@
+id,username,password,role
+admin,Administrator,admin123,Admin
+T1,Dr. Sharma,t1pass,Teacher
+T2,Dr. Iyer,t2pass,Teacher
+T3,Dr. Mehta,t3pass,Teacher
+T4,Dr. Rao,t4pass,Teacher
+T5,Dr. Singh,t5pass,Teacher
+T6,Dr. Gupta,t6pass,Teacher
+T7,Dr. Khan,t7pass,Teacher
+T8,Dr. Patel,t8pass,Teacher
+T9,Dr. Kumar,t9pass,Teacher
+T10,Naruto Uzumaki,njpass,Teacher
+S1,Group A Student,s1pass,Viewer
+S2,Group B Student,s2pass,Viewer
+S3,Group C Student,s3pass,Viewer
